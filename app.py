@@ -1,8 +1,12 @@
 import os
-import json
+import logging
 from flask import Flask, render_template, jsonify, request
 import csv
 from datetime import datetime
+from github_storage import update_word_progress, get_all_progress
+
+# Set up logging
+logging.basicConfig(level=logging.INFO)
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'manolo-german-app-secret-2024')
@@ -197,72 +201,10 @@ def update_learned_count():
         return jsonify({'success': False, 'error': 'Missing required fields'}), 400
     
     try:
-        if word_type == 'verb':
-            # Read all verbs
-            verbs = []
-            headers = []
-            with open('data/verbs.csv', 'r', encoding='utf-8') as f:
-                reader = csv.reader(f)
-                headers = next(reader)
-                
-                # Add learned_count if not present
-                if 'learned_count' not in headers:
-                    headers.append('learned_count')
-                
-                for row in reader:
-                    # Pad row if needed
-                    while len(row) < len(headers):
-                        row.append('0')
-                    
-                    if row[0] == word:  # infinitiv is first column
-                        learned_idx = headers.index('learned_count')
-                        try:
-                            current_count = int(row[learned_idx])
-                        except:
-                            current_count = 0
-                        row[learned_idx] = str(current_count + 1)
-                    verbs.append(row)
-            
-            # Write back
-            with open('data/verbs.csv', 'w', newline='', encoding='utf-8') as f:
-                writer = csv.writer(f)
-                writer.writerow(headers)
-                writer.writerows(verbs)
-        
-        elif word_type == 'noun':
-            # Read all nouns
-            nouns = []
-            headers = []
-            with open('data/nouns.csv', 'r', encoding='utf-8') as f:
-                reader = csv.reader(f)
-                headers = next(reader)
-                
-                # Add learned_count if not present
-                if 'learned_count' not in headers:
-                    headers.append('learned_count')
-                
-                for row in reader:
-                    # Pad row if needed
-                    while len(row) < len(headers):
-                        row.append('0')
-                    
-                    if row[1] == word:  # nomen is second column
-                        learned_idx = headers.index('learned_count')
-                        try:
-                            current_count = int(row[learned_idx])
-                        except:
-                            current_count = 0
-                        row[learned_idx] = str(current_count + 1)
-                    nouns.append(row)
-            
-            # Write back
-            with open('data/nouns.csv', 'w', newline='', encoding='utf-8') as f:
-                writer = csv.writer(f)
-                writer.writerow(headers)
-                writer.writerows(nouns)
-        
+        update_word_progress(word_type, word)
         return jsonify({'success': True})
     except Exception as e:
+        logging.error(f"Error updating progress: {e}")
         return jsonify({'success': False, 'error': str(e)}), 500
 
 @app.route('/get_progress')
