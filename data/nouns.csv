@@ -1,0 +1,1200 @@
+article,nomen,plural,english,learned_count
+der, Mann, Männer, man,0
+die, Frau, Frauen, woman,0
+das, Kind, Kinder, child,0
+der, Junge, Jungen, boy,0
+das, Mädchen, Mädchen, girl,0
+die, Familie, Familien, family,0
+die, Mutter, Mütter, mother,0
+der, Vater, Väter, father,0
+die, Eltern, -, parents,0
+der, Sohn, Söhne, son,0
+die, Tochter, Töchter, daughter,0
+der, Bruder, Brüder, brother,0
+die, Schwester, Schwestern, sister,0
+der, Onkel, Onkel, uncle,0
+die, Tante, Tanten, aunt,0
+der, Großvater, Großväter, grandfather,0
+die, Großmutter, Großmütter, grandmother,0
+die, Großeltern, -, grandparents,0
+der, Enkel, Enkel, grandson,0
+die, Enkelin, Enkelinnen, granddaughter,0
+der, Neffe, Neffen, nephew,0
+die, Nichte, Nichten, niece,0
+der, Cousin, Cousins, cousin (male),0
+die, Cousine, Cousinen, cousin (female),0
+der, Freund, Freunde, friend (male),0
+die, Freundin, Freundinnen, friend (female),0
+die, Bekanntschaft, Bekanntschaften, acquaintance,0
+der, Nachbar, Nachbarn, neighbor (male),0
+die, Nachbarin, Nachbarinnen, neighbor (female),0
+der, Partner, Partner, partner (male),0
+die, Partnerin, Partnerinnen, partner (female),0
+die, Beziehung, Beziehungen, relationship,0
+die, Hochzeit, Hochzeiten, wedding,0
+die, Ehe, Ehen, marriage,0
+die, Scheidung, Scheidungen, divorce,0
+das, Baby, Babys, baby,0
+der, Erwachsener, Erwachsene, adult (male),0
+die, Erwachsene, Erwachsenen, adult (female),0
+der, Jugendliche, Jugendlichen, teenager (male),0
+die, Jugendliche, Jugendlichen, teenager (female),0
+der, Mensch, Menschen, human/person,0
+die, Leute, -, people (colloquial),0
+die, Gruppe, Gruppen, group,0
+die, Gemeinschaft, Gemeinschaften, community,0
+die, Gesellschaft, Gesellschaften, society,0
+der, Gast, Gäste, guest,0
+der, Besucher, Besucher, visitor (male),0
+die, Besucherin, Besucherinnen, visitor (female),0
+der, Kollege, Kollegen, colleague (male),0
+die, Kollegin, Kolleginnen, colleague (female),0
+der, Chef, Chefs, boss (male),0
+die, Chefin, Chefinnen, boss (female),0
+der, Mitarbeiter, Mitarbeiter, employee (male),0
+die, Mitarbeiterin, Mitarbeiterinnen, employee (female),0
+der, Kunde, Kunden, customer (male),0
+die, Kundin, Kundinnen, customer (female),0
+der, Lehrer, Lehrer, teacher (male),0
+die, Lehrerin, Lehrerinnen, teacher (female),0
+der, Schüler, Schüler, student/pupil (male),0
+die, Schülerin, Schülerinnen, student/pupil (female),0
+der, Student, Studenten, student (university) (male),0
+die, Studentin, Studentinnen, student (university) (female),0
+der, Professor, Professoren, professor (male),0
+die, Professorin, Professorinnen, professor (female),0
+die, Schule, Schulen, school,0
+die, Klasse, Klassen, class,0
+das, Klassenzimmer, Klassenzimmer, classroom,0
+der, Kurs, Kurse, course,0
+der, Unterricht, Unterrichte, lesson/class,0
+die, Aufgabe, Aufgaben, assignment/task,0
+die, Antwort, Antworten, answer,0
+die, Frage, Fragen, question,0
+die, Prüfung, Prüfungen, test/exam,0
+die, Hausaufgabe, Hausaufgaben, homework,0
+die, Note, Noten, grade/mark,0
+das, Zeugnis, Zeugnisse, report card,0
+die, Bibliothek, Bibliotheken, library,0
+das, Buch, Bücher, book,0
+das, Heft, Hefte, notebook,0
+das, Blatt, Blätter, sheet (paper/leaf),0
+der, Stift, Stifte, pen/pencil,0
+der, Bleistift, Bleistifte, pencil,0
+der, Kugelschreiber, Kugelschreiber, ballpoint pen,0
+das, Lineal, Lineale, ruler,0
+der, Radiergummi, Radiergummis, eraser,0
+die, Tafel, Tafeln, blackboard,0
+die, Kreide, Kreiden, chalk,0
+das, Wörterbuch, Wörterbücher, dictionary,0
+das, Schuljahr, Schuljahre, school year,0
+die, Ausbildung, Ausbildungen, vocational training,0
+das, Praktikum, Praktika, internship,0
+der, Azubi, Azubis, apprentice,0
+die, Universität, Universitäten, university,0
+die, Hochschule, Hochschulen, college,0
+die, Mensa, Mensen, cafeteria (university),0
+das, Zimmer, Zimmer, room,0
+die, Wohnung, Wohnungen, apartment,0
+das, Haus, Häuser, house,0
+die, Tür, Türen, door,0
+das, Fenster, Fenster, window,0
+der, Tisch, Tische, table,0
+der, Stuhl, Stühle, chair,0
+der, Schrank, Schränke, cupboard/wardrobe,0
+das, Bett, Betten, bed,0
+der, Sessel, Sessel, armchair,0
+das, Sofa, Sofas, sofa,0
+die, Lampe, Lampen, lamp,0
+der, Teppich, Teppiche, carpet/rug,0
+die, Wand, Wände, wall,0
+der, Boden, Böden, floor,0
+das, Dach, Dächer, roof,0
+die, Decke, Decken, ceiling/blanket,0
+die, Küche, Küchen, kitchen,0
+das, Bad, Bäder, bathroom,0
+die, Toilette, Toiletten, toilet,0
+die, Dusche, Duschen, shower,0
+die, Garage, Garagen, garage,0
+der, Garten, Gärten, garden,0
+der, Balkon, Balkone, balcony,0
+die, Terrasse, Terrassen, terrace,0
+der, Keller, Keller, basement/cellar,0
+der, Aufzug, Aufzüge, elevator/lift,0
+die, Treppe, Treppen, stairs,0
+der, Flur, Flure, hallway/corridor,0
+das, Regal, Regale, shelf,0
+die, Kommode, Kommoden, chest of drawers,0
+das, Kissen, Kissen, pillow/cushion,0
+die, Matratze, Matratzen, mattress,0
+die, Uhr, Uhren, clock/watch,0
+das, Bild, Bilder, picture,0
+die, Stadt, Städte, city,0
+das, Dorf, Dörfer, village,0
+der, Stadtteil, Stadtteile, district,0
+die, Straße, Straßen, street,0
+die, Allee, Alleen, avenue,0
+der, Platz, Plätze, square,0
+der, Park, Parks, park,0
+die, Brücke, Brücken, bridge,0
+die, Kreuzung, Kreuzungen, intersection,0
+die, Ampel, Ampeln, traffic light,0
+die, Bushaltestelle, Bushaltestellen, bus stop,0
+der, Bahnhof, Bahnhöfe, railway station,0
+die, U-Bahn, U-Bahnen, subway,0
+die, S-Bahn, S-Bahnen, suburban train,0
+der, Bus, Busse, bus,0
+der, Zug, Züge, train,0
+die, Straßenbahn, Straßenbahnen, streetcar/tram,0
+das, Taxi, Taxis, taxi,0
+das, Auto, Autos, car,0
+das, Fahrrad, Fahrräder, bicycle,0
+das, Motorrad, Motorräder, motorcycle,0
+der, Roller, Roller, scooter,0
+der, Führerschein, Führerscheine, driver’s license,0
+der, Verkehr, -, traffic,0
+das, Verkehrsmittel, Verkehrsmittel, means of transport,0
+das, Ticket, Tickets, ticket,0
+die, Fahrkarte, Fahrkarten, ticket (transport),0
+der, Fahrschein, Fahrscheine, ticket,0
+der, Fahrplan, Fahrpläne, timetable,0
+die, Linie, Linien, line (bus/train),0
+der, Weg, Wege, way/path,0
+die, Richtung, Richtungen, direction,0
+die, Karte, Karten, map/card,0
+der, Stadtplan, Stadtpläne, city map,0
+das, Ziel, Ziele, destination/goal,0
+der, Ausgang, Ausgänge, exit,0
+der, Eingang, Eingänge, entrance,0
+die, Abfahrt, Abfahrten, departure,0
+die, Ankunft, Ankünfte, arrival,0
+der, Ausflug, Ausflüge, trip/excursion,0
+die, Reise, Reisen, journey/travel,0
+der, Urlaub, Urlaube, vacation/holiday,0
+das, Hotel, Hotels, hotel,0
+die, Jugendherberge, Jugendherbergen, youth hostel,0
+das, Zimmer, Zimmer, room,0
+die, Rezeption, Rezeptionen, reception/desk,0
+der, Schlüssel, Schlüssel, key,0
+der, Pass, Pässe, passport,0
+der, Ausweis, Ausweise, identification card,0
+das, Visum, Visa, visa,0
+die, Grenze, Grenzen, border,0
+die, Kontrolle, Kontrollen, control/check,0
+der, Zoll, Zölle, customs,0
+das, Flugzeug, Flugzeuge, airplane,0
+der, Flughafen, Flughäfen, airport,0
+der, Hafen, Häfen, port/harbor,0
+das, Schiff, Schiffe, ship,0
+das, Boot, Boote, boat,0
+der, Fluss, Flüsse, river,0
+der, See, Seen, lake,0
+das, Meer, Meere, sea,0
+der, Strand, Strände, beach,0
+die, Küste, Küsten, coast,0
+die, Insel, Inseln, island,0
+der, Berg, Berge, mountain,0
+das, Tal, Täler, valley,0
+die, Landschaft, Landschaften, landscape,0
+die, Umgebung, Umgebungen, area/surroundings,0
+die, Region, Regionen, region,0
+das, Land, Länder, country,0
+die, Hauptstadt, Hauptstädte, capital city,0
+die, Gemeinde, Gemeinden, community/municipality,0
+das, Rathaus, Rathäuser, town hall,0
+die, Polizei, Polizeien, police,0
+die, Feuerwehr, Feuerwehren, fire department,0
+das, Krankenhaus, Krankenhäuser, hospital,0
+die, Post, Posten, post office,0
+die, Bank, Banken, bank,0
+die, Sparkasse, Sparkassen, savings bank,0
+das, Büro, Büros, office,0
+die, Agentur, Agenturen, agency,0
+das, Geschäft, Geschäfte, store/shop,0
+die, Bäckerei, Bäckereien, bakery,0
+die, Metzgerei, Metzgereien, butcher shop,0
+die, Apotheke, Apotheken, pharmacy,0
+die, Drogerie, Drogerien, drugstore,0
+das, Kaufhaus, Kaufhäuser, department store,0
+das, Einkaufszentrum, Einkaufszentren, shopping mall,0
+das, Café, Cafés, café,0
+das, Restaurant, Restaurants, restaurant,0
+die, Kneipe, Kneipen, pub/bar,0
+die, Disko, Diskos, disco/club,0
+das, Kino, Kinos, cinema,0
+das, Theater, Theater, theater,0
+das, Museum, Museen, museum,0
+die, Bibliothek, Bibliotheken, library,0
+das, Stadion, Stadien, stadium,0
+der, Sportplatz, Sportplätze, sports field,0
+das, Schwimmbad, Schwimmbäder, swimming pool,0
+der, Zoo, Zoos, zoo,0
+die, Ausstellung, Ausstellungen, exhibition,0
+die, Sehenswürdigkeit, Sehenswürdigkeiten, tourist attraction,0
+der, Tourist, Touristen, tourist (male),0
+die, Touristin, Touristinnen, tourist (female),0
+die, Information, Informationen, information,0
+das, Fundbüro, Fundbüros, lost property office,0
+die, Anmeldung, Anmeldungen, registration,0
+das, Formular, Formulare, form,0
+die, Öffnungszeiten, -, opening hours,0
+das, Netz, Netze, network,0
+das, Internet, -, internet,0
+die, Verbindung, Verbindungen, connection/link,0
+der, Tarif, Tarife, rate/fare/plan,0
+das, Essen, -, food/meal,0
+das, Getränk, Getränke, beverage/drink,0
+das, Frühstück, Frühstücke, breakfast,0
+das, Mittagessen, Mittagessen, lunch,0
+das, Abendessen, Abendessen, dinner,0
+die, Mahlzeit, Mahlzeiten, meal,0
+die, Speise, Speisen, dish (food),0
+das, Gericht, Gerichte, course/dish,0
+das, Produkt, Produkte, product,0
+das, Gemüse, -, vegetables,0
+das, Obst, -, fruit,0
+der, Apfel, Äpfel, apple,0
+die, Birne, Birnen, pear,0
+die, Banane, Bananen, banana,0
+die, Orange, Orangen, orange,0
+die, Zitrone, Zitronen, lemon,0
+die, Kirsche, Kirschen, cherry,0
+die, Erdbeere, Erdbeeren, strawberry,0
+die, Melone, Melonen, melon,0
+die, Traube, Trauben, grape,0
+die, Kartoffel, Kartoffeln, potato,0
+die, Karotte, Karotten, carrot,0
+die, Gurke, Gurken, cucumber,0
+die, Tomate, Tomaten, tomato,0
+die, Paprika, Paprikas, bell pepper,0
+die, Zwiebel, Zwiebeln, onion,0
+der, Knoblauch, -, garlic,0
+der, Salat, Salate, lettuce/salad,0
+der, Pilz, Pilze, mushroom,0
+der, Kohl, Kohle, cabbage,0
+der, Spinat, -, spinach,0
+der, Reis, -, rice,0
+die, Nudel, Nudeln, noodle/pasta,0
+das, Brot, Brote, bread,0
+das, Brötchen, Brötchen, bread roll,0
+der, Kuchen, Kuchen, cake,0
+die, Torte, Torten, cake/tart,0
+der, Keks, Kekse, cookie/biscuit,0
+die, Schokolade, Schokoladen, chocolate,0
+das, Eis, -, ice cream,0
+das, Fleisch, -, meat,0
+das, Rindfleisch, -, beef,0
+das, Schweinefleisch, -, pork,0
+das, Hähnchen, Hähnchen, chicken (meat),0
+der, Fisch, Fische, fish,0
+die, Wurst, Würste, sausage,0
+der, Schinken, Schinken, ham,0
+der, Speck, Specke, bacon,0
+der, Käse, Käse, cheese,0
+die, Butter, -, butter,0
+die, Margarine, -, margarine,0
+das, Ei, Eier, egg,0
+der, Joghurt, Joghurts, yogurt,0
+die, Sahne, -, cream,0
+der, Quark, -, quark/cottage cheese,0
+das, Wasser, Wässer, water,0
+der, Saft, Säfte, juice,0
+die, Limonade, Limonaden, lemonade/soft drink,0
+der, Tee, Tees, tea,0
+der, Kaffee, Kaffees, coffee,0
+der, Kakao, Kakaos, cocoa,0
+der, Zucker, -, sugar,0
+das, Salz, Salze, salt,0
+der, Pfeffer, -, pepper,0
+das, Öl, Öle, oil,0
+der, Essig, Essige, vinegar,0
+das, Restaurant, Restaurants, restaurant,0
+das, Café, Cafés, café,0
+die, Kneipe, Kneipen, bar/pub,0
+die, Bar, Bars, bar,0
+der, Imbiss, Imbisse, snack bar,0
+die, Speisekarte, Speisekarten, menu,0
+die, Getränkekarte, Getränkekarten, drinks menu,0
+die, Bestellung, Bestellungen, order,0
+die, Bedienung, Bedienungen, service/waitstaff,0
+das, Trinkgeld, Trinkgelder, tip/gratuity,0
+der, Kellner, Kellner, waiter,0
+die, Kellnerin, Kellnerinnen, waitress,0
+die, Reservierung, Reservierungen, reservation,0
+der, Tisch, Tische, table,0
+die, Tasse, Tassen, cup,0
+das, Glas, Gläser, glass,0
+der, Becher, Becher, beaker/mug,0
+der, Teller, Teller, plate,0
+die, Schüssel, Schüsseln, bowl,0
+der, Löffel, Löffel, spoon,0
+die, Gabel, Gabeln, fork,0
+das, Messer, Messer, knife,0
+der, Topf, Töpfe, pot,0
+die, Pfanne, Pfannen, pan,0
+die, Serviette, Servietten, napkin,0
+die, Packung, Packungen, packet/pack,0
+die, Dose, Dosen, can/tin,0
+die, Flasche, Flaschen, bottle,0
+das, Stück, Stücke, piece,0
+das, Kilo, Kilos, kilogram,0
+das, Gramm, Gramme, gram,0
+das, Pfund, Pfunde, pound (weight),0
+der, Supermarkt, Supermärkte, supermarket,0
+der, Markt, Märkte, market,0
+der, Bäcker, Bäcker, baker (male),0
+die, Bäckerin, Bäckerinnen, baker (female),0
+der, Metzger, Metzger, butcher (male),0
+die, Metzgerin, Metzgerinnen, butcher (female),0
+die, Bäckerei, Bäckereien, bakery,0
+die, Metzgerei, Metzgereien, butcher shop,0
+das, Geschäft, Geschäfte, shop/store,0
+das, Kaufhaus, Kaufhäuser, department store,0
+das, Einkaufszentrum, Einkaufszentren, shopping mall,0
+der, Laden, Läden, store,0
+die, Drogerie, Drogerien, drugstore,0
+die, Apotheke, Apotheken, pharmacy,0
+der, Kunde, Kunden, customer (male),0
+die, Kundin, Kundinnen, customer (female),0
+der, Verkäufer, Verkäufer, salesperson (male),0
+die, Verkäuferin, Verkäuferinnen, salesperson (female),0
+der, Preis, Preise, price,0
+der, Rabatt, Rabatte, discount,0
+das, Sonderangebot, Sonderangebote, special offer,0
+die, Quittung, Quittungen, receipt,0
+die, Rechnung, Rechnungen, bill/invoice,0
+das, Geld, -, money,0
+die, Münze, Münzen, coin,0
+der, Schein, Scheine, banknote/bill,0
+die, Kreditkarte, Kreditkarten, credit card,0
+das, Konto, Konten, (bank) account,0
+der, Geldautomat, Geldautomaten, ATM,0
+die, Natur, -, nature,0
+die, Umwelt, -, environment,0
+der, Umweltschutz, -, environmental protection,0
+die, Luft, Lüfte, air,0
+das, Wasser, -, water,0
+der, Fluss, Flüsse, river,0
+der, Bach, Bäche, stream/creek,0
+der, See, Seen, lake,0
+das, Meer, Meere, sea,0
+der, Ozean, Ozeane, ocean,0
+die, Küste, Küsten, coast,0
+die, Insel, Inseln, island,0
+der, Strand, Strände, beach,0
+der, Sand, Sande, sand,0
+der, Berg, Berge, mountain,0
+das, Gebirge, Gebirge, mountain range,0
+der, Hügel, Hügel, hill,0
+das, Tal, Täler, valley,0
+die, Landschaft, Landschaften, landscape,0
+die, Wiese, Wiesen, meadow,0
+das, Feld, Felder, field,0
+der, Wald, Wälder, forest/woods,0
+der, Baum, Bäume, tree,0
+der, Strauch, Sträucher, bush/shrub,0
+das, Gras, Gräser, grass,0
+das, Blatt, Blätter, leaf,0
+die, Blume, Blumen, flower,0
+die, Rose, Rosen, rose,0
+die, Tulpe, Tulpen, tulip,0
+die, Sonne, Sonnen, sun,0
+der, Mond, Monde, moon,0
+der, Stern, Sterne, star,0
+der, Himmel, Himmel, sky,0
+die, Wolke, Wolken, cloud,0
+der, Regen, Regen, rain,0
+der, Schnee, Schnee, snow,0
+das, Eis, -, ice,0
+der, Nebel, Nebel, fog,0
+der, Wind, Winde, wind,0
+der, Sturm, Stürme, storm,0
+das, Gewitter, Gewitter, thunderstorm,0
+die, Temperatur, Temperaturen, temperature,0
+das, Wetter, -, weather,0
+der, Sommer, Sommer, summer,0
+der, Winter, Winter, winter,0
+der, Herbst, Herbste, autumn,0
+der, Frühling, Frühlinge, spring (season),0
+das, Klima, Klimas, climate,0
+die, Hitze, -, heat,0
+die, Kälte, -, cold,0
+die, Katastrophe, Katastrophen, disaster,0
+das, Feuer, Feuer, fire,0
+der, Brand, Brände, fire (destructive),0
+das, Licht, Lichter, light,0
+der, Schatten, Schatten, shadow,0
+das, Tier, Tiere, animal,0
+der, Hund, Hunde, dog,0
+die, Katze, Katzen, cat,0
+das, Pferd, Pferde, horse,0
+das, Schaf, Schafe, sheep,0
+die, Kuh, Kühe, cow,0
+das, Schwein, Schweine, pig,0
+das, Huhn, Hühner, chicken,0
+die, Gans, Gänse, goose,0
+die, Ente, Enten, duck,0
+der, Fisch, Fische, fish,0
+der, Vogel, Vögel, bird,0
+die, Maus, Mäuse, mouse,0
+die, Ratte, Ratten, rat,0
+der, Hase, Hasen, rabbit/hare,0
+die, Ziege, Ziegen, goat,0
+das, Kaninchen, Kaninchen, rabbit,0
+die, Biene, Bienen, bee,0
+die, Mücke, Mücken, mosquito,0
+die, Fliege, Fliegen, fly,0
+der, Schmetterling, Schmetterlinge, butterfly,0
+der, Käfer, Käfer, beetle,0
+die, Wespe, Wespen, wasp,0
+die, Spinne, Spinnen, spider,0
+die, Schnecke, Schnecken, snail,0
+die, Schildkröte, Schildkröten, turtle,0
+der, Zoo, Zoos, zoo,0
+das, Aquarium, Aquarien, aquarium,0
+die, Pflanze, Pflanzen, plant,0
+das, Gemüse, -, vegetable,0
+das, Obst, -, fruit,0
+das, Korn, Körner, grain,0
+das, Getreide, Getreide, cereal/grain,0
+die, Ernte, Ernten, harvest,0
+der, Landwirt, Landwirte, farmer (male),0
+die, Landwirtin, Landwirtinnen, farmer (female),0
+der, Bauer, Bauern, farmer,0
+die, Landwirtschaft, -, agriculture,0
+das, Feld, Felder, field,0
+der, Garten, Gärten, garden,0
+die, Blume, Blumen, flower,0
+die, Freizeit, -, free time,0
+das, Hobby, Hobbys, hobby,0
+das, Spiel, Spiele, game,0
+das, Brettspiel, Brettspiele, board game,0
+das, Puzzle, Puzzles, puzzle,0
+der, Ball, Bälle, ball,0
+das, Team, Teams, team,0
+der, Verein, Vereine, club,0
+der, Sport, Sportarten, sport,0
+das, Training, Trainings, training,0
+der, Spieler, Spieler, player (male),0
+die, Spielerin, Spielerinnen, player (female),0
+das, Schwimmbad, Schwimmbäder, swimming pool,0
+der, See, Seen, lake,0
+das, Boot, Boote, boat,0
+die, Reise, Reisen, journey/trip,0
+der, Körper, Körper, body,0
+der, Kopf, Köpfe, head,0
+das, Gesicht, Gesichter, face,0
+das, Auge, Augen, eye,0
+das, Ohr, Ohren, ear,0
+die, Nase, Nasen, nose,0
+der, Mund, Münder, mouth,0
+die, Lippe, Lippen, lip,0
+der, Zahn, Zähne, tooth,0
+die, Zunge, Zungen, tongue,0
+der, Hals, Hälse, neck/throat,0
+die, Schulter, Schultern, shoulder,0
+der, Arm, Arme, arm,0
+der, Ellbogen, Ellbogen, elbow,0
+die, Hand, Hände, hand,0
+der, Finger, Finger, finger,0
+der, Nagel, Nägel, nail,0
+die, Brust, Brüste, chest/breast,0
+der, Bauch, Bäuche, belly/stomach,0
+der, Rücken, Rücken, back,0
+das, Bein, Beine, leg,0
+das, Knie, Knie, knee,0
+der, Fuß, Füße, foot,0
+die, Zehe, Zehen, toe,0
+das, Herz, Herzen, heart,0
+die, Lunge, Lungen, lung,0
+der, Magen, Mägen, stomach,0
+die, Leber, Lebern, liver,0
+das, Blut, -, blood,0
+die, Gesundheit, -, health,0
+die, Krankheit, Krankheiten, illness,0
+der, Schmerz, Schmerzen, pain,0
+die, Verletzung, Verletzungen, injury,0
+die, Wunde, Wunden, wound,0
+die, Grippe, Grippen, flu,0
+die, Erkältung, Erkältungen, cold (illness),0
+der, Husten, -, cough,0
+das, Fieber, Fieber, fever,0
+der, Schnupfen, Schnupfen, cold (runny nose),0
+die, Tablette, Tabletten, tablet/pill,0
+die, Salbe, Salben, ointment,0
+der, Verband, Verbände, bandage,0
+das, Pflaster, Pflaster, plaster/band-aid,0
+die, Spritze, Spritzen, injection,0
+das, Medikament, Medikamente, medicine,0
+das, Rezept, Rezepte, prescription/recipe,0
+die, Impfung, Impfungen, vaccination,0
+die, Diät, Diäten, diet,0
+das, Gewicht, Gewichte, weight,0
+die, Größe, Größen, height/size,0
+der, Arzt, Ärzte, doctor (male),0
+die, Ärztin, Ärztinnen, doctor (female),0
+die, Praxis, Praxen, doctor’s office/practice,0
+das, Krankenhaus, Krankenhäuser, hospital,0
+die, Klinik, Kliniken, clinic,0
+der, Notarzt, Notärzte, emergency doctor,0
+der, Rettungswagen, Rettungswagen, ambulance,0
+die, Krankenschwester, Krankenschwestern, nurse (female),0
+der, Krankenpfleger, Krankenpfleger, nurse (male),0
+der, Patient, Patienten, patient (male),0
+die, Patientin, Patientinnen, patient (female),0
+die, Krankenversicherung, Krankenversicherungen, health insurance,0
+die, Pflege, -, care/nursing,0
+das, Alter, -, age/old age,0
+die, Geburt, Geburten, birth,0
+der, Tod, Tode, death,0
+das, Leben, Leben, life,0
+die, Jugend, -, youth,0
+der, Erwachsene, Erwachsenen, adult,0
+das, Kind, Kinder, child,0
+der, Jugendliche, Jugendlichen, youth/teenager (male),0
+die, Jugendliche, Jugendlichen, youth/teenager (female),0
+das, Gefühl, Gefühle, feeling,0
+die, Freude, Freuden, joy,0
+das, Glück, -, happiness/luck,0
+die, Hoffnung, Hoffnungen, hope,0
+die, Angst, Ängste, fear,0
+die, Sorge, Sorgen, worry,0
+der, Stress, -, stress,0
+der, Ärger, -, anger/trouble,0
+die, Liebe, Lieben, love,0
+der, Hass, -, hate,0
+der, Mut, -, courage,0
+die, Geduld, -, patience,0
+die, Ruhe, -, calm/quiet,0
+die, Langeweile, -, boredom,0
+die, Lust, Lüste, desire,0
+die, Laune, Launen, mood,0
+die, Trauer, -, grief,0
+die, Wut, -, rage,0
+der, Streit, Streite, argument,0
+die, Beziehung, Beziehungen, relationship,0
+die, Freundschaft, Freundschaften, friendship,0
+der, Alltag, Alltage, everyday life,0
+der, Tagesablauf, Tagesabläufe, daily routine,0
+die, Uhrzeit, Uhrzeiten, time (of day),0
+der, Morgen, Morgen, morning,0
+der, Vormittag, Vormittage, late morning,0
+der, Mittag, Mittage, noon,0
+der, Nachmittag, Nachmittage, afternoon,0
+der, Abend, Abende, evening,0
+die, Nacht, Nächte, night,0
+der, Schlaf, -, sleep,0
+der, Traum, Träume, dream,0
+der, Wecker, Wecker, alarm clock,0
+das, Frühstück, Frühstücke, breakfast,0
+das, Mittagessen, Mittagessen, lunch,0
+das, Abendessen, Abendessen, dinner,0
+die, Mahlzeit, Mahlzeiten, meal,0
+das, Bad, Bäder, bath/bathroom,0
+die, Dusche, Duschen, shower,0
+die, Zahnbürste, Zahnbürsten, toothbrush,0
+die, Zahnpasta, Zahnpasten, toothpaste,0
+das, Handtuch, Handtücher, towel,0
+die, Seife, Seifen, soap,0
+das, Taschentuch, Taschentücher, tissue,0
+die, Kleidung, -, clothing,0
+das, Hemd, Hemden, shirt,0
+die, Bluse, Blusen, blouse,0
+das, T-Shirt, T-Shirts, t-shirt,0
+das, Kleid, Kleider, dress,0
+der, Rock, Röcke, skirt,0
+die, Hose, Hosen, pants/trousers,0
+die, Jeans, Jeans, jeans,0
+die, Jacke, Jacken, jacket,0
+der, Mantel, Mäntel, coat,0
+die, Mütze, Mützen, (wool) hat,0
+der, Hut, Hüte, hat,0
+der, Schuh, Schuhe, shoe,0
+die, Socke, Socken, sock,0
+der, Stiefel, Stiefel, boot,0
+der, Gürtel, Gürtel, belt,0
+der, Schal, Schals, scarf,0
+die, Handschuhe, Handschuhe, gloves,0
+die, Brille, Brillen, glasses,0
+die, Tasche, Taschen, bag/purse,0
+die, Arbeit, Arbeiten, job/work,0
+der, Arbeitsplatz, Arbeitsplätze, workplace,0
+der, Beruf, Berufe, profession/occupation,0
+die, Stelle, Stellen, position,0
+die, Anzeige, Anzeigen, ad/advertisement,0
+die, Bewerbung, Bewerbungen, application,0
+das, Vorstellungsgespräch, Vorstellungsgespräche, job interview,0
+die, Erfahrung, Erfahrungen, experience,0
+die, Kenntnis, Kenntnisse, knowledge,0
+die, Ausbildung, Ausbildungen, (vocational) training,0
+das, Praktikum, Praktika, internship,0
+der, Kollege, Kollegen, colleague (male),0
+die, Kollegin, Kolleginnen, colleague (female),0
+der, Chef, Chefs, boss (male),0
+die, Chefin, Chefinnen, boss (female),0
+der, Mitarbeiter, Mitarbeiter, co-worker (male),0
+die, Mitarbeiterin, Mitarbeiterinnen, co-worker (female),0
+der, Leiter, Leiter, manager/head (male),0
+die, Leiterin, Leiterinnen, manager/head (female),0
+die, Abteilung, Abteilungen, department,0
+das, Team, Teams, team,0
+das, Projekt, Projekte, project,0
+das, Ziel, Ziele, goal,0
+die, Verantwortung, Verantwortungen, responsibility,0
+der, Erfolg, Erfolge, success,0
+der, Misserfolg, Misserfolge, failure,0
+der, Lohn, Löhne, wage,0
+das, Gehalt, Gehälter, salary,0
+der, Vertrag, Verträge, contract,0
+die, Teilzeit, -, part-time,0
+die, Vollzeit, -, full-time,0
+die, Überstunde, Überstunden, overtime hour,0
+die, Rente, Renten, pension,0
+der, Rentner, Rentner, retiree (male),0
+die, Rentnerin, Rentnerinnen, retiree (female),0
+die, Kündigung, Kündigungen, resignation/dismissal,0
+die, Entlassung, Entlassungen, dismissal,0
+der, Arbeitsloser, Arbeitslose, unemployed person (male),0
+die, Arbeitslose, Arbeitslosen, unemployed person (female),0
+die, Arbeitslosigkeit, -, unemployment,0
+das, Arbeitsamt, Arbeitsämter, labor office,0
+die, Behörde, Behörden, authority/agency,0
+der, Beamte, Beamten, civil servant (male),0
+die, Beamtin, Beamtinnen, civil servant (female),0
+das, Büro, Büros, office,0
+das, Gebäude, Gebäude, building,0
+das, Stockwerk, Stockwerke, floor/storey,0
+der, Raum, Räume, room/space,0
+der, Computer, Computer, computer,0
+der, Bildschirm, Bildschirme, screen/monitor,0
+die, Tastatur, Tastaturen, keyboard,0
+die, Maus, Mäuse, mouse (device),0
+der, Drucker, Drucker, printer,0
+das, Papier, Papiere, paper,0
+der, Ordner, Ordner, folder/binder,0
+der, Stempel, Stempel, stamp,0
+die, Unterschrift, Unterschriften, signature,0
+die, Akte, Akten, file (physical),0
+das, Dokument, Dokumente, document,0
+der, Brief, Briefe, letter,0
+die, E-Mail, E-Mails, email,0
+das, Telefon, Telefone, telephone,0
+der, Anruf, Anrufe, phone call,0
+die, Nachricht, Nachrichten, message,0
+die, Mitteilung, Mitteilungen, note/communication,0
+der, Kopierer, Kopierer, copier,0
+das, Fax, Faxe, fax,0
+der, Termin, Termine, appointment/meeting,0
+die, Besprechung, Besprechungen, meeting,0
+die, Konferenz, Konferenzen, conference,0
+das, Protokoll, Protokolle, protocol/record,0
+die, Pause, Pausen, break/pause,0
+die, Kantine, Kantinen, canteen,0
+die, Küche, Küchen, kitchen,0
+das, Werkzeug, Werkzeuge, tool,0
+der, Hammer, Hämmer, hammer,0
+der, Nagel, Nägel, nail,0
+die, Schraube, Schrauben, screw,0
+der, Schraubenzieher, Schraubenzieher, screwdriver,0
+der, Bohrer, Bohrer, drill,0
+der, Stecker, Stecker, plug,0
+die, Steckdose, Steckdosen, socket,0
+das, Kabel, Kabel, cable,0
+die, Lampe, Lampen, lamp,0
+der, Schalter, Schalter, switch,0
+der, Mechaniker, Mechaniker, mechanic (male),0
+die, Mechanikerin, Mechanikerinnen, mechanic (female),0
+der, Handwerker, Handwerker, tradesman/craftsman (male),0
+die, Handwerkerin, Handwerkerinnen, tradeswoman/craftswoman,0
+der, Ingenieur, Ingenieure, engineer (male),0
+die, Ingenieurin, Ingenieurinnen, engineer (female),0
+der, Techniker, Techniker, technician (male),0
+die, Technikerin, Technikerinnen, technician (female),0
+der, Fahrer, Fahrer, driver (male),0
+die, Fahrerin, Fahrerinnen, driver (female),0
+der, Polizist, Polizisten, policeman,0
+die, Polizistin, Polizistinnen, policewoman,0
+der, Arzt, Ärzte, doctor (male),0
+die, Ärztin, Ärztinnen, doctor (female),0
+der, Lehrer, Lehrer, teacher (male),0
+die, Lehrerin, Lehrerinnen, teacher (female),0
+der, Verkäufer, Verkäufer, salesperson (male),0
+die, Verkäuferin, Verkäuferinnen, salesperson (female),0
+der, Friseur, Friseure, hairdresser (male),0
+die, Friseurin, Friseurinnen, hairdresser (female),0
+der, Bäcker, Bäcker, baker (male),0
+die, Bäckerin, Bäckerinnen, baker (female),0
+der, Metzger, Metzger, butcher (male),0
+die, Metzgerin, Metzgerinnen, butcher (female),0
+der, Koch, Köche, cook/chef (male),0
+die, Köchin, Köchinnen, cook/chef (female),0
+der, Kellner, Kellner, waiter,0
+die, Kellnerin, Kellnerinnen, waitress,0
+der, Tischler, Tischler, carpenter (male),0
+die, Tischlerin, Tischlerinnen, carpenter (female),0
+der, Maler, Maler, painter (male),0
+die, Malerin, Malerinnen, painter (female),0
+das, Geld, -, money,0
+der, Euro, Euro, euro,0
+der, Cent, Cent, cent,0
+die, Münze, Münzen, coin,0
+der, Schein, Scheine, (bank) note,0
+das, Portemonnaie, Portemonnaies, wallet,0
+die, Rechnung, Rechnungen, bill/invoice,0
+die, Quittung, Quittungen, receipt,0
+der, Preis, Preise, price,0
+das, Angebot, Angebote, offer,0
+die, Kreditkarte, Kreditkarten, credit card,0
+das, Konto, Konten, account,0
+der, Geldautomat, Geldautomaten, ATM,0
+das, Fernsehen, -, television (broadcast),0
+der, Fernseher, Fernseher, television (device),0
+das, Radio, Radios, radio,0
+die, Sendung, Sendungen, program/show,0
+der, Film, Filme, movie/film,0
+der, Spielfilm, Spielfilme, feature film,0
+der, Zeichentrickfilm, Zeichentrickfilme, cartoon,0
+die, Serie, Serien, series,0
+die, Nachrichten, -, news,0
+der, Bericht, Berichte, report,0
+die, Zeitung, Zeitungen, newspaper,0
+die, Zeitschrift, Zeitschriften, magazine,0
+der, Artikel, Artikel, article,0
+das, Buch, Bücher, book,0
+das, Wörterbuch, Wörterbücher, dictionary,0
+der, Roman, Romane, novel,0
+die, Geschichte, Geschichten, story/history,0
+das, Gedicht, Gedichte, poem,0
+die, Bibliothek, Bibliotheken, library,0
+die, Musik, -, music,0
+das, Lied, Lieder, song,0
+die, CD, CDs, CD,0
+die, DVD, DVDs, DVD,0
+die, Schallplatte, Schallplatten, vinyl record,0
+der, Sänger, Sänger, singer (male),0
+die, Sängerin, Sängerinnen, singer (female),0
+die, Band, Bands, band,0
+das, Konzert, Konzerte, concert,0
+das, Theater, Theater, theater,0
+das, Musical, Musicals, musical,0
+der, Schauspieler, Schauspieler, actor (male),0
+die, Schauspielerin, Schauspielerinnen, actress,0
+die, Bühne, Bühnen, stage,0
+die, Ausstellung, Ausstellungen, exhibition,0
+das, Museum, Museen, museum,0
+die, Kunst, Künste, art,0
+der, Künstler, Künstler, artist (male),0
+die, Künstlerin, Künstlerinnen, artist (female),0
+das, Foto, Fotos, photo,0
+der, Fotograf, Fotografen, photographer (male),0
+die, Fotografin, Fotografinnen, photographer (female),0
+die, Kamera, Kameras, camera,0
+das, Handy, Handys, mobile phone,0
+das, Smartphone, Smartphones, smartphone,0
+das, Telefon, Telefone, telephone,0
+der, Anruf, Anrufe, phone call,0
+der, Anrufbeantworter, Anrufbeantworter, answering machine,0
+die, E-Mail, E-Mails, email,0
+die, SMS, SMS, text message,0
+der, Brief, Briefe, letter,0
+die, Post, Posten, mail,0
+die, Adresse, Adressen, address,0
+die, Nummer, Nummern, number,0
+die, Nachricht, Nachrichten, message/news,0
+das, Gespräch, Gespräche, conversation,0
+die, Unterhaltung, Unterhaltungen, entertainment/conversation,0
+die, Einladung, Einladungen, invitation,0
+der, Besuch, Besuche, visit/visitor,0
+das, Treffen, Treffen, meeting/gathering,0
+die, Gruppe, Gruppen, group,0
+die, Party, Partys, party,0
+das, Fest, Feste, celebration/festival,0
+der, Gastgeber, Gastgeber, host (male),0
+die, Gastgeberin, Gastgeberinnen, host (female),0
+der, Gast, Gäste, guest,0
+das, Spiel, Spiele, game,0
+das, Computerspiel, Computerspiele, computer game,0
+das, Brettspiel, Brettspiele, board game,0
+das, Puzzle, Puzzles, puzzle,0
+die, Karte, Karten, card/map/ticket,0
+der, Ball, Bälle, ball,0
+die, Sportart, Sportarten, kind of sport,0
+der, Sport, -, sport,0
+das, Training, Trainings, training,0
+der, Wettkampf, Wettkämpfe, competition,0
+der, Spieler, Spieler, player (male),0
+die, Spielerin, Spielerinnen, player (female),0
+das, Team, Teams, team,0
+der, Verein, Vereine, club/association,0
+der, Fan, Fans, fan (supporter),0
+das, Hobby, Hobbys, hobby,0
+die, Freizeit, -, free time,0
+das, Schwimmbad, Schwimmbäder, swimming pool,0
+das, Stadion, Stadien, stadium,0
+das, Fitnessstudio, Fitnessstudios, gym/fitness center,0
+der, Zoo, Zoos, zoo,0
+der, Park, Parks, park,0
+die, Wanderung, Wanderungen, hiking tour,0
+die, Radtour, Radtouren, bike trip,0
+das, Picknick, Picknicks, picnic,0
+die, Reise, Reisen, journey/travel,0
+der, Ausflug, Ausflüge, excursion,0
+der, Urlaub, Urlaube, holiday/vacation,0
+die, Kamera, Kameras, camera,0
+der, Computer, Computer, computer,0
+der, Laptop, Laptops, laptop,0
+das, Tablet, Tablets, tablet,0
+das, Programm, Programme, program (computer/TV/event),0
+die, Software, Softwares, software,0
+die, Datei, Dateien, file,0
+der, Drucker, Drucker, printer,0
+die, Tastatur, Tastaturen, keyboard,0
+die, Maus, Mäuse, mouse (device),0
+der, Bildschirm, Bildschirme, display/monitor,0
+das, Internet, -, internet,0
+die, Website, Websites, website,0
+die, Verbindung, Verbindungen, connection,0
+das, Passwort, Passwörter, password,0
+der, Benutzername, Benutzernamen, username,0
+der, USB-Stick, USB-Sticks, USB stick,0
+das, Kabel, Kabel, cable,0
+die, Steckdose, Steckdosen, socket,0
+der, Akku, Akkus, battery (rechargeable),0
+die, Batterie, Batterien, battery,0
+die, Regierung, Regierungen, government,0
+der, Staat, Staaten, state/country,0
+das, Land, Länder, country,0
+die, Hauptstadt, Hauptstädte, capital,0
+die, Stadt, Städte, city,0
+das, Dorf, Dörfer, village,0
+die, Politik, Politiken, politics/policy,0
+die, Partei, Parteien, (political) party,0
+das, Parlament, Parlamente, parliament,0
+das, Gesetz, Gesetze, law,0
+die, Wahl, Wahlen, election/vote,0
+die, Polizei, Polizeien, police,0
+die, Feuerwehr, Feuerwehren, fire brigade,0
+das, Gericht, Gerichte, court,0
+der, Richter, Richter, judge (male),0
+die, Richterin, Richterinnen, judge (female),0
+der, Anwalt, Anwälte, lawyer (male),0
+die, Anwältin, Anwältinnen, lawyer (female),0
+der, Bürger, Bürger, citizen (male),0
+die, Bürgerin, Bürgerinnen, citizen (female),0
+die, Gesellschaft, Gesellschaften, society,0
+die, Gemeinschaft, Gemeinschaften, community,0
+die, Bevölkerung, Bevölkerungen, population,0
+die, Minderheit, Minderheiten, minority,0
+die, Mehrheit, Mehrheiten, majority,0
+die, Gleichberechtigung, -, equality,0
+die, Freiheit, Freiheiten, freedom,0
+die, Gerechtigkeit, Gerechtigkeiten, justice,0
+das, Recht, Rechte, right/law,0
+die, Pflicht, Pflichten, duty,0
+die, Verantwortung, Verantwortungen, responsibility,0
+die, Meinung, Meinungen, opinion/view,0
+die, Diskussion, Diskussionen, discussion,0
+die, Versammlung, Versammlungen, assembly/gathering,0
+die, Organisation, Organisationen, organization,0
+der, Verein, Vereine, club/society,0
+das, Mitglied, Mitglieder, member,0
+die, Initiative, Initiativen, initiative,0
+das, Projekt, Projekte, project,0
+das, Fest, Feste, festival,0
+die, Feier, Feiern, celebration,0
+das, Ereignis, Ereignisse, event,0
+die, Tradition, Traditionen, tradition,0
+der, Brauch, Bräuche, custom,0
+der, Feiertag, Feiertage, holiday,0
+der, Jahrestag, Jahrestage, anniversary,0
+das, Weihnachten, -, Christmas,0
+das, Ostern, -, Easter,0
+das, Neujahr, -, New Year,0
+der, Geburtstag, Geburtstage, birthday,0
+die, Hochzeit, Hochzeiten, wedding,0
+die, Taufe, Taufen, baptism,0
+die, Beerdigung, Beerdigungen, funeral,0
+die, Einladung, Einladungen, invitation,0
+das, Geschenk, Geschenke, present/gift,0
+die, Überraschung, Überraschungen, surprise,0
+das, Leben, Leben, life,0
+die, Geburt, Geburten, birth,0
+der, Tod, Tode, death,0
+die, Kindheit, -, childhood,0
+die, Jugend, -, youth,0
+das, Alter, -, age/old age,0
+die, Zukunft, Zukünfte, future,0
+die, Vergangenheit, Vergangenheiten, past,0
+die, Gegenwart, -, present (time),0
+die, Hoffnung, Hoffnungen, hope,0
+die, Angst, Ängste, fear,0
+die, Freude, Freuden, joy,0
+die, Traurigkeit, -, sadness,0
+der, Ärger, -, annoyance/anger,0
+der, Mut, -, courage,0
+die, Geduld, -, patience,0
+die, Liebe, Lieben, love,0
+der, Streit, Streite, argument,0
+die, Freundschaft, Freundschaften, friendship,0
+die, Lüge, Lügen, lie (falsehood),0
+die, Wahrheit, Wahrheiten, truth,0
+der, Traum, Träume, dream,0
+das, Ziel, Ziele, goal/aim,0
+die, Idee, Ideen, idea,0
+der, Plan, Pläne, plan,0
+die, Lösung, Lösungen, solution,0
+das, Problem, Probleme, problem,0
+das, Beispiel, Beispiele, example,0
+die, Hilfe, Hilfen, help,0
+die, Gefahr, Gefahren, danger,0
+die, Möglichkeit, Möglichkeiten, possibility,0
+die, Wahl, Wahlen, choice/election,0
+die, Erfahrung, Erfahrungen, experience,0
+die, Erinnerung, Erinnerungen, memory,0
+das, Verständnis, -, understanding,0
+die, Herausforderung, Herausforderungen, challenge,0
+die, Voraussetzung, Voraussetzungen, prerequisite/requirement,0
+das, Verhalten, Verhalten, behavior,0
+die, Eigenschaft, Eigenschaften, characteristic/trait,0
+die, Fähigkeit, Fähigkeiten, ability/skill,0
+die, Leistung, Leistungen, achievement/performance,0
+die, Entwicklung, Entwicklungen, development,0
+das, Ergebnis, Ergebnisse, result/outcome,0
+der, Zusammenhang, Zusammenhänge, context/connection,0
+die, Ursache, Ursachen, cause,0
+die, Wirkung, Wirkungen, effect,0
+die, Folge, Folgen, consequence,0
+die, Tatsache, Tatsachen, fact,0
+das, Ereignis, Ereignisse, event/incident,0
+das, Risiko, Risiken, risk,0
+die, Anforderung, Anforderungen, demand/requirement,0
+die, Bedingung, Bedingungen, condition,0
+die, Zustimmung, Zustimmungen, approval,0
+der, Widerspruch, Widersprüche, contradiction/objection,0
+die, Verantwortung, Verantwortungen, responsibility,0
+der, Beitrag, Beiträge, contribution,0
+die, Unterstützung, Unterstützungen, support/assistance,0
+die, Beratung, Beratungen, consulting/advising,0
+die, Erfahrung, Erfahrungen, experience,0
+die, Schulung, Schulungen, training,0
+die, Fortbildung, Fortbildungen, advanced training,0
+die, Weiterbildung, Weiterbildungen, further education,0
+das, Studium, Studien, university studies,0
+die, Wissenschaft, Wissenschaften, science/academic discipline,0
+die, Forschung, Forschungen, research,0
+die, Erkenntnis, Erkenntnisse, insight/knowledge,0
+die, Untersuchung, Untersuchungen, investigation/study,0
+die, Erhebung, Erhebungen, survey/data collection,0
+die, Statistik, Statistiken, statistics,0
+die, Umfrage, Umfragen, survey/poll,0
+die, These, Thesen, thesis,0
+die, Meinung, Meinungen, opinion,0
+die, Ansicht, Ansichten, opinion/view,0
+die, Einschätzung, Einschätzungen, assessment/evaluation,0
+die, Behauptung, Behauptungen, assertion/claim,0
+das, Argument, Argumente, argument,0
+die, Debatte, Debatten, debate,0
+die, Diskussion, Diskussionen, discussion,0
+die, Rede, Reden, speech,0
+die, Einladung, Einladungen, invitation,0
+der, Vorschlag, Vorschläge, proposal/suggestion,0
+der, Hinweis, Hinweise, hint/clue,0
+die, Information, Informationen, information,0
+die, Mitteilung, Mitteilungen, communication/message,0
+der, Beitrag, Beiträge, contribution/post (online),0
+die, Veröffentlichung, Veröffentlichungen, publication/release,0
+der, Bericht, Berichte, report,0
+das, Interview, Interviews, interview,0
+die, Presse, -, press/media,0
+die, Nachrichten, -, news,0
+die, Medien, -, media,0
+die, Zeitschrift, Zeitschriften, magazine,0
+das, Medium, Medien, medium,0
+die, Werbung, Werbungen, advertisement,0
+die, Sendung, Sendungen, program/broadcast,0
+die, Zeile, Zeilen, line (writing),0
+die, Quelle, Quellen, source,0
+die, Tabelle, Tabellen, table/chart,0
+die, Grafik, Grafiken, graphic,0
+das, Bild, Bilder, picture,0
+die, Darstellung, Darstellungen, portrayal/presentation,0
+der, Zusammenhang, Zusammenhänge, context,0
+die, Meinung, Meinungen, opinion,0
+das, Netzwerk, Netzwerke, network,0
+die, Verbindung, Verbindungen, connection/link,0
+die, Beziehung, Beziehungen, relationship,0
+das, Verhältnis, Verhältnisse, relationship/ratio,0
+die, Gesellschaft, Gesellschaften, society/company,0
+die, Bevölkerung, Bevölkerungen, population,0
+die, Minderheit, Minderheiten, minority,0
+die, Mehrheit, Mehrheiten, majority,0
+die, Demokratie, Demokratien, democracy,0
+die, Diktatur, Diktaturen, dictatorship,0
+die, Freiheit, Freiheiten, freedom/liberty,0
+die, Gerechtigkeit, Gerechtigkeiten, justice,0
+die, Ungerechtigkeit, Ungerechtigkeiten, injustice,0
+die, Armut, -, poverty,0
+der, Wohlstand, -, prosperity,0
+die, Gewalt, -, violence,0
+die, Bedrohung, Bedrohungen, threat,0
+die, Straftat, Straftaten, crime,0
+das, Opfer, Opfer, victim,0
+der, Täter, Täter, perpetrator/offender,0
+die, Polizei, Polizeien, police,0
+das, Gericht, Gerichte, court,0
+der, Richter, Richter, judge (male),0
+die, Richterin, Richterinnen, judge (female),0
+der, Zeuge, Zeugen, witness (male),0
+die, Zeugin, Zeuginnen, witness (female),0
+der, Anwalt, Anwälte, lawyer (male),0
+die, Anwältin, Anwältinnen, lawyer (female),0
+die, Strafe, Strafen, penalty/punishment,0
+die, Vorschrift, Vorschriften, regulation,0
+das, Gesetz, Gesetze, law,0
+die, Politik, -, politics,0
+der, Politiker, Politiker, politician (male),0
+die, Politikerin, Politikerinnen, politician (female),0
+die, Regierung, Regierungen, government,0
+das, Parlament, Parlamente, parliament,0
+die, Wahl, Wahlen, election/vote,0
+die, Abstimmung, Abstimmungen, ballot/vote,0
+die, Wirtschaft, -, economy,0
+das, Unternehmen, Unternehmen, company/business,0
+der, Betrieb, Betriebe, business/operation,0
+die, Branche, Branchen, sector/industry,0
+das, Gewerbe, Gewerbe, trade/business,0
+die, Produktion, Produktionen, production,0
+der, Handel, -, trade/business,0
+der, Export, Exporte, export,0
+der, Import, Importe, import,0
+die, Dienstleistung, Dienstleistungen, service,0
+die, Nachfrage, Nachfragen, demand/request,0
+das, Angebot, Angebote, supply/offer,0
+der, Umsatz, Umsätze, turnover/sales,0
+der, Gewinn, Gewinne, profit,0
+der, Verlust, Verluste, loss,0
+die, Steuer, Steuern, tax,0
+die, Subvention, Subventionen, subsidy,0
+der, Verbraucher, Verbraucher, consumer (male),0
+die, Verbraucherin, Verbraucherinnen, consumer (female),0
+die, Lieferung, Lieferungen, delivery,0
+die, Bestellung, Bestellungen, order,0
+der, Vertrag, Verträge, contract,0
+die, Bedingung, Bedingungen, condition,0
+das, Risiko, Risiken, risk,0
+die, Genehmigung, Genehmigungen, permit,0
+die, Anerkennung, Anerkennungen, recognition/appreciation,0
+die, Störung, Störungen, disturbance/interference,0
+die, Verbesserung, Verbesserungen, improvement,0
+die, Veränderung, Veränderungen, change/shift,0
+die, Verschlechterung, Verschlechterungen, deterioration,0
+das, Wachstum, -, growth,0
+die, Zunahme, Zunahmen, increase (abstract),0
+die, Abnahme, Abnahmen, decrease (abstract),0
+der, Mangel, Mängel, deficiency/lack,0
+der, Vorteil, Vorteile, advantage,0
+der, Nachteil, Nachteile, disadvantage,0
+die, Schwierigkeit, Schwierigkeiten, difficulty,0
+die, Möglichkeit, Möglichkeiten, possibility,0
+die, Gelegenheit, Gelegenheiten, opportunity,0
+die, Erlaubnis, Erlaubnisse, permission,0
+der, Bedarf, Bedürfnisse, need/requirement,0
+die, Pflicht, Pflichten, duty/obligation,0
+das, Recht, Rechte, right (law),0
+das, Verbot, Verbote, prohibition,0
+die, Zustimmung, Zustimmungen, approval/consent,0
+die, Ablehnung, Ablehnungen, rejection/refusal,0
+die, Absage, Absagen, rejection/decline,0
+die, Nachfrage, Nachfragen, demand (economic),0
+die, Nachfrage, Nachfragen, inquiry,0
+die, Vereinbarung, Vereinbarungen, agreement,0
+die, Absprache, Absprachen, arrangement/consultation,0
+die, Verantwortung, Verantwortungen, responsibility,0
+das, Ziel, Ziele, target/goal,0
+die, Aufgabe, Aufgaben, assignment/task,0
+die, Maßnahme, Maßnahmen, measure/action,0
+das, Verfahren, Verfahren, procedure/process,0
+die, Methode, Methoden, method,0
+die, Technik, Techniken, technology,0
+die, Technologie, Technologien, technology,0
+die, Entwicklung, Entwicklungen, development,0
+die, Strömung, Strömungen, current/trend (also water),0
+das, Gerät, Geräte, device/appliance,0
+der, Schalter, Schalter, switch/counter,0
+die, Steckdose, Steckdosen, socket,0
+der, Stecker, Stecker, plug,0
+der, Draht, Drähte, wire,0
+das, Blei, -, lead (metal),0
+der, Kunststoff, Kunststoffe, plastic,0
+die, Chemie, -, chemistry,0
+die, Biologie, -, biology,0
+die, Physik, -, physics,0
+die, Genetik, -, genetics,0
+die, Forschung, Forschungen, research,0
+das, Experiment, Experimente, experiment,0
+die, Wissenschaft, Wissenschaften, science,0
+das, Labor, Labors, laboratory,0
+die, Zelle, Zellen, cell (biology),0
+das, Gen, Gene, gene,0
+die, Umwelt, -, environment,0
+die, Umweltverschmutzung, -, pollution,0
+der, Müll, -, waste/garbage,0
+das, Recycling, -, recycling,0
+die, Abfallbeseitigung, -, waste disposal,0
+die, Erderwärmung, -, global warming,0
+der, Klimawandel, -, climate change,0
+der, Treibhauseffekt, Treibhauseffekte, greenhouse effect,0
+der, Rohstoff, Rohstoffe, raw material/resource,0
+die, Energie, Energien, energy,0
+die, Solarenergie, -, solar energy,0
+die, Windenergie, -, wind energy,0
+die, Kernenergie, -, nuclear energy,0
+die, Ressource, Ressourcen, resource,0
+das, Reservoir, Reservoire, reservoir,0
+der, Strom, Ströme, electricity/current,0
+der, Verkehr, -, traffic,0
+der, Treibstoff, Treibstoffe, fuel,0
+das, Fahrzeug, Fahrzeuge, vehicle,0
+der, Transport, Transporte, transport,0
+der, Lärm, -, noise,0
+die, Reduzierung, Reduzierungen, reduction,0
+die, Erhöhung, Erhöhungen, increase/elevation,0
+der, Schutz, -, protection,0
+die, Gefahr, Gefahren, danger/hazard,0
+die, Katastrophe, Katastrophen, disaster,0
+das, Leben, Leben, life,0
+die, Gesellschaft, Gesellschaften, society,0
+die, Kultur, Kulturen, culture,0
+die, Bildung, Bildungen, education,0
+die, Weiterbildung, Weiterbildungen, further education,0
+der, Unterricht, -, instruction/lesson,0
+die, Schule, Schulen, school,0
+das, Studium, Studien, degree studies,0
+die, Universität, Universitäten, university,0
+die, Hochschule, Hochschulen, college of higher ed.,0
+der, Abschluss, Abschlüsse, qualification/degree/certificate,0
+die, Sitzung, Sitzungen, meeting/session,0
+die, Konferenz, Konferenzen, conference,0
+der, Vortrag, Vorträge, lecture/presentation,0
+die, Präsentation, Präsentationen, presentation,0
+die, Anmeldung, Anmeldungen, registration,0
+die, Zertifizierung, Zertifizierungen, certification,0
+die, Forschung, Forschungen, research,0
+die, Innovation, Innovationen, innovation,0
+die, Zusammenarbeit, Zusammenarbeiten, cooperation,0
+das, Engagement, Engagements, commitment/involvement,0
+die, Integration, Integrationen, integration,0
+der, Einfluss, Einflüsse, influence,0
+die, Auswirkung, Auswirkungen, effect/impact,0
+die, Konsequenz, Konsequenzen, consequence,0
+die, Einstellung, Einstellungen, attitude,0
+die, Voraussetzung, Voraussetzungen, prerequisite,0
+die, Zustimmung, Zustimmungen, approval/consent,0
+die, Ablehnung, Ablehnungen, rejection/refusal,0
+der, Antrag, Anträge, application/request,0
+die, Beratung, Beratungen, consultation/advising,0
+die, Initiative, Initiativen, initiative,0
+die, Bewegung, Bewegungen, movement,0
+die, Stille, -, silence/quiet,0
+die, Öffentlichkeit, -, public (noun),0
+das, Bewusstsein, -, awareness/consciousness,0

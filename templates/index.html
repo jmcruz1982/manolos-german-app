@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manolo´s German Learning App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div id="app">
+        <!-- Main Menu -->
+        <div id="mainMenu" class="container">
+            <h1>Manolo´s German Learning App</h1>
+            <div class="menu-grid">
+                <div class="menu-left">
+                    <button class="btn btn-large" onclick="startLearning('verbs')">Learn Verbs</button>
+                    <button class="btn btn-large" onclick="startLearning('nouns')">Learn Vocabulary<br>(Nouns)</button>
+                </div>
+                <div class="menu-right">
+                    <button class="btn btn-medium" onclick="showAddForm('verbs')">Add New Verbs</button>
+                    <button class="btn btn-medium" onclick="showAddForm('nouns')">Add New Nouns</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mode Selection -->
+        <div id="modeSelection" class="container hidden">
+            <h2 id="modeTitle">Select Practice Mode</h2>
+            <div id="modeButtons"></div>
+            <div class="direction-selection">
+                <h3>Translation Direction</h3>
+                <label><input type="radio" name="direction" value="de_to_en" checked> German → English</label>
+                <label><input type="radio" name="direction" value="en_to_de"> English → German</label>
+                <label><input type="radio" name="direction" value="random"> Random Both</label>
+            </div>
+            <button class="btn" onclick="showMainMenu()">Back to Menu</button>
+        </div>
+
+        <!-- Practice Area -->
+        <div id="practiceArea" class="container hidden">
+            <div id="statsBar" class="stats-bar">
+                <span id="statsText">Correct: 0 | Incorrect: 0 | Accuracy: 0%</span>
+                <button class="btn btn-small" onclick="endSession()">End Session</button>
+            </div>
+            <div id="practiceContent"></div>
+        </div>
+
+        <!-- Add Forms -->
+        <div id="addForm" class="container hidden">
+            <h2 id="addFormTitle"></h2>
+            <form id="wordForm">
+                <div id="formFields"></div>
+                <div class="button-group">
+                    <button type="submit" class="btn">Save</button>
+                    <button type="button" class="btn" onclick="clearForm()">Clear</button>
+                    <button type="button" class="btn" onclick="showMainMenu()">Back to Menu</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
